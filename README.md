@@ -12,5 +12,6 @@ http://js.studio-kingdom.com/angularjs
 ### QIITA AngularJS Tag
 http://qiita.com/tags/angularjs
 
-### AngularJSの入門用のチュートリアル　（github:https://github.com/hisasann/AngularJSTutorial）
+### AngularJSの入門用のチュートリアル　
 http://lab.hisasann.com/AngularJSTutorial/
+github:https://github.com/hisasann/AngularJSTutorial
