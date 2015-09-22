@@ -8,3 +8,6 @@ https://groups.google.com/forum/#!forum/angularjs-jp
 
 ### AngularJSの日本語リファレンス（対象Angular Version1.2）
 http://js.studio-kingdom.com/angularjs
+
+### QIITA AngularJS Tag
+http://qiita.com/tags/angularjs
